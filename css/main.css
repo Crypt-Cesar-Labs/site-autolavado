@@ -1,0 +1,125 @@
+body{
+	font-family: 'Righteous', cursive;
+	background-color: #EEEE;
+}
+img{
+	max-width: 80%
+}
+.quitar_float{
+	float: none;
+}
+
+.espacio_arriba{
+	margin-top: 100px
+}
+
+.confortaa{
+	font-family: 'Comfortaa', cursive;
+
+}
+
+.grande{
+	font-size: 10em;
+}
+
+/*nueva fuente paa el titulo*/
+.daysOne{
+	font-family: 100% 'Days One', sans-serif;
+	font-size: 3em;
+}
+.righteous{
+	font-family: 100% 'Righteous', cursive;
+	font-size: 5em;
+}
+
+/*colores 1er tema*/
+.negro{
+	color: #240E16;
+}
+
+.azulfuerte{
+	color: #035C75;
+}
+
+.azul{
+	color: #749BA7;
+}
+
+.gris{
+	color: #D5DBCC;
+}
+
+.rojo{
+	color: #BB3716;
+}
+
+/*colores 2er tema */
+.azulgris{
+	color: #3F5F73;
+}
+
+.grispastel{
+	color: #717362;
+}
+
+.amarillo{
+	color: #D9BE6C;
+}
+
+.blanco{
+	color: #F2F2F2;
+}
+
+.negroFuerte{
+	color: #0D0D0D;
+}
+
+/*colores 3er tema*/
+.guinda{
+	color: #73020C;
+}
+
+.verde{
+	color: #A0A672;
+}
+
+.gris{
+	color: #BFBFBA;
+}
+
+.rojococa{
+	color: #BF0404;
+}
+
+/*se gris y paddin largo*/
+.se-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5xp 10xp;
+
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+/*nueva clase*/
+.espacio-derecha{
+	margin-right: 1em
+}
+
+/*clase para quitar estilos a las listas*/
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+
+.vete-arriba{
+	vertical-align: top;
+}
