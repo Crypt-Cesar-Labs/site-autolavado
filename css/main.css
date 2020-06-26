@@ -26,6 +26,16 @@ img{
 	font-size: 1.5em;
 }
 
+.retraso-1{
+	-webkit-animation-delay: 1s; 
+	-moz-animation-delay: 1s;
+	animation-delay: 1s; 
+}
+.retraso-2{
+	-webkit-animation-delay: 2s; 
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
 /*nueva fuente paa el titulo*/
 .daysOne{
 	font-family: 100% 'Days One', sans-serif;
